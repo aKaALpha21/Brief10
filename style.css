@@ -1,0 +1,51 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+*{
+  background-color:black ;
+}
+span{
+  background-color: #ffc107;
+}
+.search{
+  margin-bottom: auto;
+  margin-top: auto;
+  
+  background-color: #fff;
+  border-radius: 40px;
+  padding: 2px;
+  position: absolute;
+  right: 1%;
+  top: 14.5%;
+ 
+  }
+
+  .search_input{
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    margin-top:5px;
+    caret-color:transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+   
+    }
+  .search .search_input{
+    padding: 0 10px;
+    width: 300px;
+    caret-color:red;
+    transition: width 0.4s linear;
+    }
+  img{
+    height: 30%;
+    width: 20%;
+  }
+  @media only screen and (max-width: 600px) {
+      img{
+        height: 300%;
+        width: 100%;
+      }
+  }

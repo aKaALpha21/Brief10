@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <title>Netflix.xd</title>
+  </head>
+  <body>
+    <div class="pos-f-t">
+      <div class="collapse" id="navbarToggleExternalContent">
+        <div class="bg-warning p-4">
+          <h4 class="text-white"></h4>
+          <span class="text-muted">Toggleable via the navbar brand.</span>
+        </div>
+      </div>
+      <nav class="navbar navbar-warning bg-warning">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarToggleExternalContent"
+          aria-controls="navbarToggleExternalContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </nav>
+    </div>
+    <section>
+      <div>
+        <select class="form-select form-select-lg mb-3" id="select" a-label=".form-select-lg example">
+          <option selected>--Select Something--</option>
+          <option value="1" class="text-light">Titre ↑</option>
+          <option value="2" class="text-light">Titre ↓</option>
+          <option value="3" class="text-light">Réalisateur ↑</option>
+          <option value="4" class="text-light">Réalisateur ↓</option>
+          <option value="5" class="text-light">Durée ↑</option>
+          <option value="6" class="text-light">Durée ↓</option>
+          <option value="7" class="text-light">L'année de production ↑</option>
+          <option value="8" class="text-light">L'année de production ↓</option>
+      </select>
+      </div>
+      <div class="container h-100">
+        <div class="d-flex justify-content-center h-100">
+          <div class="search">
+            <input class="search_input text-dark" id="search" type="text" name="" placeholder="Search here...">
+            <a href="#" class="search_icon"><i class="fa fa-search"></i></a>
+          </div>
+        </div>
+      </div>
+      <br/><br/>
+      <div class="table-responsive-sm">
+        <table class="table text-light">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Poster</th>
+              <th scope="col">Titre</th>
+              <th scope="col">Durée</th>
+              <th scope="col">L'année de production</th>
+              <th scope="col">Festivals</th>
+              <th scope="col">Acteurs</th>
+              <th scope="col">Réalisateur</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+    </section>
+    <script src="main.js"></script>
+  </body>
+</html>

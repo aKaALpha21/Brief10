@@ -1,0 +1,221 @@
+[{
+    "empty":"",
+    "Poster":"PIC/tenet.jpg",
+    "Titre":"Tenet",
+    "Durée":150,
+    "Lannéedeproduction":2020,
+    "Festivals":["Calvados"],
+    "Acteurs":[{
+        "nom" : " David Washington",
+        "prénom":"John",
+        "nationalité":" Américain"
+
+    },{
+        "nom" : "Pattinson",
+        "prénom":"Robert",
+        "nationalité":"Britannique"
+    }
+],
+    "Réalisateur":"Christopher Nolan"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/inception.jpg",
+    "Titre":"Inception",
+    "Durée":148,
+    "Lannéedeproduction":2010,
+    "Festivals":["International Film Festival of Marrakech"],
+    "Acteurs":[
+        {
+            "nom" : "DiCaprio",
+            "prénom":"Leonardo",
+            "nationalité":" Américaine"
+    
+        },{
+            "nom" : "Hardy",
+            "prénom":"Tom",
+            "nationalité":"Britannique"
+        }
+    ],
+    "Réalisateur":"Christopher Nolan"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/legend.jpg",
+    "Titre":"Legend",
+    "Durée":131,
+    "Lannéedeproduction":2015,
+    "Festivals":["Dockanema","FreedomFilmFest"],
+    "Acteurs":[{
+            "nom" : "Hardy",
+            "prénom":"Tom",
+            "nationalité":"Britannique"
+    },
+    {
+        "nom":"Browning",
+        "prénom":"Emily",
+        "nationalité":" Australienne"
+
+    }
+
+    ],
+    "Réalisateur":"Brian Helgeland"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/cruella.jpeg",
+    "Titre":"Cruella",
+    "Durée":134,
+    "Lannéedeproduction":2021,
+    "Festivals":["Anifilm","Animator"],
+    "Acteurs":[{
+        "nom":"Stone",
+        "prénom":"Emma",
+        "nationalité":" Américaine"
+    },{
+        "nom":"Thompson",
+        "prénom":"Emma",
+        "nationalité":" Américaine"
+    }
+
+    ],
+    "Réalisateur":"Craig Gillespie"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/6underground.jpg",
+    "Titre":"6 Underground",
+    "Durée":128,
+    "Lannéedeproduction":2019,
+    "Festivals":["Nigar Awards"],
+    "Acteurs":[{
+        "nom":"Reynolds",
+        "prénom":"Ryan",
+        "nationalité":"Canadienne"
+    },
+    {
+        "nom":"Hardy",
+        "prénom":"Ben",
+        "nationalité":"Britannique"
+
+    }
+
+    ],
+    "Réalisateur":"Michael Bay"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/tenet.jpg",
+    "Titre":"Tenet",
+    "Durée":150,
+    "Lannéedeproduction":2020,
+    "Festivals":["Calvados"],
+    "Acteurs":[{
+        "nom" : " David Washington",
+        "prénom":"John",
+        "nationalité":" Américain"
+
+    },{
+        "nom" : "Pattinson",
+        "prénom":"Robert",
+        "nationalité":"Britannique"
+    }
+],
+    "Réalisateur":"Christopher Nolan"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/inception.jpg",
+    "Titre":"Inception",
+    "Durée":148,
+    "Lannéedeproduction":2010,
+    "Festivals":["International Film Festival of Marrakech"],
+    "Acteurs":[
+        {
+            "nom" : "DiCaprio",
+            "prénom":"Leonardo",
+            "nationalité":" Américaine"
+    
+        },{
+            "nom" : "Hardy",
+            "prénom":"Tom",
+            "nationalité":"Britannique"
+        }
+    ],
+    "Réalisateur":"Christopher Nolan"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/legend.jpg",
+    "Titre":"Legend",
+    "Durée":131,
+    "Lannéedeproduction":2015,
+    "Festivals":["Dockanema","FreedomFilmFest"],
+    "Acteurs":[{
+            "nom" : "Hardy",
+            "prénom":"Tom",
+            "nationalité":"Britannique"
+    },
+    {
+        "nom":"Browning",
+        "prénom":"Emily",
+        "nationalité":" Australienne"
+
+    }
+
+    ],
+    "Réalisateur":"Brian Helgeland"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/cruella.jpeg",
+    "Titre":"Cruella",
+    "Durée":134,
+    "Lannéedeproduction":2021,
+    "Festivals":["Anifilm","Animator"],
+    "Acteurs":[{
+        "nom":"Stone",
+        "prénom":"Emma",
+        "nationalité":" Américaine"
+    },{
+        "nom":"Thompson",
+        "prénom":"Emma",
+        "nationalité":" Américaine"
+    }
+
+    ],
+    "Réalisateur":"Craig Gillespie"
+
+},
+{
+    "empty":"",
+    "Poster":"PIC/6underground.jpg",
+    "Titre":"6 Underground",
+    "Durée":128,
+    "Lannéedeproduction":2019,
+    "Festivals":["Nigar Awards"],
+    "Acteurs":[{
+        "nom":"Reynolds",
+        "prénom":"Ryan",
+        "nationalité":"Canadienne"
+    },
+    {
+        "nom":"Hardy",
+        "prénom":"Ben",
+        "nationalité":"Britannique"
+
+    }
+
+    ],
+    "Réalisateur":"Michael Bay"
+
+}
+]
